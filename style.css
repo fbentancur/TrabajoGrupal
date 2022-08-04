@@ -6,5 +6,8 @@ body{
     background: linear-gradient(to right, blue, white)
 }
 p{
-    color: blue
+    color: rgb(255, 0, 0)
+}
+ul{
+    list-style: none;
 }

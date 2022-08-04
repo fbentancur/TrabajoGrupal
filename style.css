@@ -1,4 +1,7 @@
 h1{
-    color: blue;
-    
+    color: crimson;
+
+}
+body{
+    background: linear-gradient(to right, blue, white)
 }
